@@ -49,8 +49,8 @@ nav li {
 nav a {
 	text-decoration: none;
 	font-weight: bold;
-	font-size: 140%;
-	margin-right: 50px;
+	font-size: 110%;
+	margin-right: 10px;
 	background-color: lightgrey;
 	padding: 3px 10px 3px 10px;
 	color: darkgrey;
